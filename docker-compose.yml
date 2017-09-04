@@ -25,6 +25,6 @@ services:
        WORDPRESS_DB_PASSWORD: wordpress
      working_dir: /var/www/html
      volumes:
-       - /Users/davidyeiser/dev/wp-local/wp-content/themes/my-theme:/var/www/html/wp-content/themes/my-theme
+       - /Users/davidyeiser/dev/docker-wordpress-theme-setup/wp-content/themes/my-theme:/var/www/html/wp-content/themes/my-theme
 volumes:
     db_data:
