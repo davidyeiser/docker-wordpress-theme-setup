@@ -14,9 +14,9 @@
     <main id="main" class="site-main" role="main">
 
       <?php
-      if ( have_posts() ) :
+      if (have_posts()) :
         /* Start the Loop */
-        while ( have_posts() ) : the_post();
+        while (have_posts()) : the_post();
       ?>
         <div>
           <a href="<?php the_permalink(); ?>"><h3><?php the_title(); ?></h3></a>
