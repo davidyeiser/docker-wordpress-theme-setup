@@ -17,7 +17,7 @@ services:
        - db
      image: wordpress:latest
      ports:
-       - "8000:80"
+       - "8049:80"
      restart: always
      environment:
        WORDPRESS_DB_HOST: db:3306
@@ -25,6 +25,7 @@ services:
        WORDPRESS_DB_PASSWORD: wordpress
      working_dir: /var/www/html
      volumes:
-       - /Users/davidyeiser/dev/docker-wordpress-theme-setup/wp-content/themes/my-theme:/var/www/html/wp-content/themes/my-theme
+       - /YOUR/LOCAL/PATH/docker-wordpress-theme-setup/wp-content:/var/www/html/wp-content
+       - /YOUR/LOCAL/PATH/docker-wordpress-theme-setup/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
 volumes:
     db_data:
