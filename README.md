@@ -1,6 +1,6 @@
 # docker-wordpress-theme-setup
 
-This repository was created as part of a tutorial on how to [setup a local development environment to build a WordPress theme](https://davidyeiser.com/tutorial/docker-wordpress-theme-setup).
+This repository was created as part of a tutorial on how to [setup a local development environment to build a WordPress theme](https://davidyeiser.com/tutorials/docker-wordpress-theme-setup).
 
 ## Installation
 
