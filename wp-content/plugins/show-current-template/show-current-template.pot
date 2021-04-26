@@ -1,0 +1,37 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/show-current-template1\n"
+"POT-Creation-Date: 2013-12-23 07:57:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: show-current-template.php:62 show-current-template.php:68
+msgid "Theme name: "
+msgstr ""
+
+#: show-current-template.php:65
+msgid "'s child"
+msgstr ""
+
+#: show-current-template.php:69
+msgid "NOT a child theme"
+msgstr ""
+
+#: show-current-template.php:90
+msgid "Template:"
+msgstr ""
+
+#: show-current-template.php:99
+msgid "Template relative path:"
+msgstr ""
+
+#: show-current-template.php:112
+msgid "Also, below template files are included:"
+msgstr ""

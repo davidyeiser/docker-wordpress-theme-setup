@@ -1,0 +1,37 @@
+/*
+    Document   : style.css
+    Created on : 2013/01/21, 16:04:46
+    Updated on : 2014/01/26, 22:28
+    Author     : tai
+    Description:
+        The stylesheet for the plugin.
+*/
+
+#wpadminbar {
+  .show-template-name, .hover .show-template-name {
+    font-family: monospace;
+    text-shadow: none;
+  }
+
+  #wp-admin-bar-included_files_path .ab-item {
+    div {
+      font-family: monospace;
+      text-shadow: none;
+    }
+
+    height: auto;
+  }
+
+  .show-template-name {
+    color: #ccc;
+  }
+
+  #included-files-list li, .menupop.hover .show-template-name {
+    color: #333;
+  }
+
+  #included-files-list li {
+    margin-left: 20px;
+    text-shadow: none;
+  }
+}

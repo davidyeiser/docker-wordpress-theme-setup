@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;;;;;;AAUE,uEAAgD;EAC9C,WAAW,EAAE,SAAS;EACtB,WAAW,EAAE,IAAI;AAGnB,sDAA2C;EAMzC,MAAM,EAAE,IAAI;EALZ,0DAAI;IACF,WAAW,EAAE,SAAS;IACtB,WAAW,EAAE,IAAI;AAMrB,+BAAoB;EAClB,KAAK,EAAE,IAAI;AAGb,mFAA4D;EAC1D,KAAK,EAAE,IAAI;AAGb,mCAAwB;EACtB,WAAW,EAAE,IAAI;EACjB,WAAW,EAAE,IAAI",
+"sources": ["../sass/style-old.scss"],
+"names": [],
+"file": "style-old.css"
+}
